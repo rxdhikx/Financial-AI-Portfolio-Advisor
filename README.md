@@ -68,13 +68,6 @@ The system performs the following tasks:
 
 ---
 
-## **AWS Architecture Diagram**
-
-![AWS Architecture Diagram](https://via.placeholder.com/800x400.png)  
-*(Replace with your actual diagram)*
-
----
-
 ## **Contributing**
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
